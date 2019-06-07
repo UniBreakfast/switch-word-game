@@ -1,0 +1,19 @@
+body, textarea, input {
+  font: 1rem Trebuchet MS, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+textarea {
+  display: block;
+  margin: 3% auto;
+  width: 80%;
+  padding: 5px 10px;
+}
+
+p {
+  width: 80%;
+  margin: 20px auto;
+}

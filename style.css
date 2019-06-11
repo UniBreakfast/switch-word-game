@@ -17,3 +17,21 @@ p {
   width: 80%;
   margin: 20px auto;
 }
+
+.underHover {
+  background: palegreen;
+}
+
+.selected {
+  background: paleturquoise;
+}
+
+#transframe {
+  display: none;
+  position: fixed;
+  /* transform: translate(-70px, 21px); */
+  padding: 3px;
+  background: paleturquoise;
+}
+
+/* ================================================== */

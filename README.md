@@ -1,4 +1,4 @@
-# switch-word-game
+# [switch-word-game](https://github.com/UniBreakfast/switch-word-game)
 
 ### Unfinished (barely started) concept for a game to learn languages
 
